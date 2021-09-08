@@ -1,0 +1,17 @@
+{
+    "vetur.completion.scaffoldSnippetSources": {
+
+        "workspace": "💼",
+        "user": "🗒️",
+        "vetur": "✌",
+        "emmet.includeLanguages": {
+            "javascript": "javascriptreact",
+            "vue-html": "html",
+            "vue": "html",
+        }
+    }
+    }
+
+    
+
+
